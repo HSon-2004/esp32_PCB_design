@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=SENSOR_VP Pin=D31-1
+Removed Pin From Net: NetName=GND Pin=D31-2
+Removed Member From Class: ClassName=sheet1 Member=D31
+Added Component: Designator=P3(hole)
+Added Component: Designator=P4(hole)
+Added Pin To Net: NetName=SENSOR_VP Pin=P3-1
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Member To Class: ClassName=sheet1 Member=Component P3 BIG_Header 1
+Added Member To Class: ClassName=sheet1 Member=Component P4 BIG_Header 1

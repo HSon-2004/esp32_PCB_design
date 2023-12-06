@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=R1-1
+Removed Pin From Net: NetName=SENSOR_VP Pin=R1-2
+Removed Member From Class: ClassName=sheet1 Member=R1
+Added Component: Designator=D31(XDCR_SFH_213_FA)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SFH%20213%20FA/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "OSRAM Opto"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SFH 213 FA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Osram Opto"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SFH 213 FA/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SFH%20213%20FA/OSRAM+Opto+Semiconductors+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D31-1
+Added Pin To Net: NetName=SENSOR_VP Pin=D31-2
+Added Member To Class: ClassName=sheet1 Member=Component D31 SFH_213_FA

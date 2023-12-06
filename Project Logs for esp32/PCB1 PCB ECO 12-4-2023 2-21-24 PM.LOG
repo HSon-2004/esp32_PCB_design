@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=sheet1 Member=D?
+Removed Member From Class: ClassName=sheet1 Member=D
+Added Component: Designator=Q?(TRANS_SS8050-G)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS8050G/Comchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "641-1790-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Comchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS8050G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS8050G/Comchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=sheet1 Member=Component Q? SS8050-G

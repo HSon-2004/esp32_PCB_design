@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=D? Old Footprint=0805 (2012 Metric) Orange New Footprint=0805 (2012 Metric) Orange
+Change Component Footprint: Designator=D7 Old Footprint=DO-204AL, DO-41, Axial New Footprint=DO-204AL, DO-41, Axial
+Added Component: Designator=HD2(HED3)
+Add component (AddParameter): Name = "Value"; Value = "Header 3"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=sheet1 Member=Component VR1 3362P-1-103LF

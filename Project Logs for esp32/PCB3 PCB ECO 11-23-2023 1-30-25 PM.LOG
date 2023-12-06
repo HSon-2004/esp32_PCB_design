@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=HD1-1
+Removed Pin From Net: NetName=SENSOR_VP Pin=HD1-2
+Removed Member From Class: ClassName=sheet1 Member=HD1
+Added Component: Designator=R1(PHODET_PDV-P8103)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Advanced Photonix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "PDV-P8103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Advanced Photonix"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PDV-P8103/Advanced%20Photonix/view-part/558244/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=SENSOR_VP Pin=R1-2
+Added Member To Class: ClassName=sheet1 Member=Component R1 PDV-P8103

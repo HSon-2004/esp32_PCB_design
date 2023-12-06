@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=SENSOR_VP Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=VDD33 Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=HD1-1
+Removed Pin From Net: NetName=SENSOR_VP Pin=HD1-2
+Removed Pin From Net: NetName=SENSOR_VP Pin=R31-1
+Removed Pin From Net: NetName=VDD33 Pin=R31-2
+Removed Pin From Net: NetName=IO13 Pin=R32-2
+Removed Pin From Net: NetName=SENSOR_VP Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U3-4
+Removed Pin From Net: NetName=VDD33 Pin=U3-8
+Removed Pin From Net: NetName=GND Pin=VR1-1
+Removed Pin From Net: NetName=VDD33 Pin=VR1-3
+Removed Member From Class: ClassName=sheet1 Member=C31
+Removed Member From Class: ClassName=sheet1 Member=C32
+Removed Member From Class: ClassName=sheet1 Member=HD1
+Removed Member From Class: ClassName=sheet1 Member=R31
+Removed Member From Class: ClassName=sheet1 Member=R32
+Removed Member From Class: ClassName=sheet1 Member=VR1
+Added Component: Designator=R3(RES0402)
+Add component (AddParameter): Name = "Manufacturer"; Value = "GENERIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RES-SM-0402-4.7K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DS18B20Z+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-8 Maxim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DS18B20Z%2B/Maxim%20Integrated/view-part/109391/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(SNR4-2.54-15.5X12.0X5.5MM)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/DHT11/Panasonic/view-part/6618018/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Industrial Automation Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DHT11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/DHT11/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DHT11/Panasonic/view-part/6618018/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EXT_5V Pin=R3-2
+Added Pin To Net: NetName=EXT_5V Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U3-4
+Added Net: Name=NetR3_1
+Added Member To Class: ClassName=sheet1 Member=Component R3 RES
+Added Member To Class: ClassName=sheet1 Member=Component U4 TEM-HUM-DHT11(4P-15.5X12.0MM)

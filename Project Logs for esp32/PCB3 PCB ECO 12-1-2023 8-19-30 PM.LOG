@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=sheet1 Member=D?
+Added Component: Designator=D31(LEDC3215X125N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "OSRAM Opto"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SFH 2701"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-2 OSRAM Opto"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SFH%202701/OSRAM%20Opto%20Semiconductors%20Inc./view-part/289594/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=sheet1 Member=Component D31 SFH_2701
+Added Member To Class: ClassName=sheet1 Member=Component U3 LM393D

@@ -1,0 +1,65 @@
+Altium Designer Pick and Place Locations
+C:\Users\ACER\Desktop\esp32\Project Outputs for esp32\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       06/12/23
+Time:       14:06
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"VR1","3362P-1-103LF","TopLayer","TRIM_3362P-1-103LF","105.3465","33.7185","270","Trimmer, Cermet, Rest 10 Kilohms, PCB, 1 Turns, Pwr-Rtg 0.5 W, Tol 10%"
+"U5","DS18B20Z+","TopLayer","SOIC127P600X175-8N","98.1075","4.1275","0","Programmable Resolution 1-Wire Digital Thermometer"
+"U4","PC817X2NIP0F","TopLayer","SOT254P975X400-4N","113.2205","15.8115","0","Optoisolator Transistor Output 5000Vrms 1 Channel 4-SMD"
+"U3","LM393D","TopLayer","SOIC127P599X175-8N","98.2345","23.3045","0","Dual differential comparator, commercial grade"
+"U2","AMS1117","TopLayer","SOT229P700X180-4N","25.7175","27.7495","90","Oreki"
+"U1","CP2102N-A01-GQFN28","TopLayer","QFN50P500X500X80-29N","27.2415","9.0505","0","USB Bridge, USB to UART USB 2.0 UART Interface 28-QFN (5x5)"
+"R51","RES","TopLayer","RES0603","92.1385","2.3495","180","RES SM 0603 4.7K"
+"R42","RES","TopLayer","RES0402","111.1055","9.9695","180","RES SM 0402 470R"
+"R41","RES","TopLayer","RES0402","104.5845","17.7165","180","RES SM 0402 1K"
+"R32","RES","TopLayer","RES0402","92.7735","25.2095","180","RES SM 0402 10K"
+"R31","RES","TopLayer","RES0402","92.7735","20.0025","0","RES SM 0402 10K"
+"R26","RES","TopLayer","RES0603","21.2725","4.3815","180","RES SM 0603 33K"
+"R25","RES","TopLayer","RES0402","23.9395","4.3815","180","RES SM 0402 22K"
+"R24","RES","TopLayer","RES0402","21.6535","7.9375","0","RES SM 0402 2K"
+"R23","RES","TopLayer","RES0402","21.6535","6.0325","180","RES SM 0402 10K"
+"R22","RES","TopLayer","RES0402","27.7495","16.0655","180","RES SM 0402 10K"
+"R21","RES","TopLayer","RES0402","27.7495","17.9705","0","RES SM 0402 10K"
+"R18","RES","TopLayer","RES0402","26.4795","13.5255","270","RES SM 0402 0R"
+"R17","RES","TopLayer","RES0402","27.3685","13.5255","270","RES SM 0402 0R"
+"R11","RES","TopLayer","RES0402","86.1255","20.3835","180","RES SM 0402 10K"
+"R2","RES","TopLayer","RES0402","22.5425","34.0995","270","RES SM 0402 2K"
+"Q3","IRLML0030TRPBF","TopLayer","SOT23-3","111.8235","5.0165","0","MOSFET SMD N-CH 100V 170mA SOT23-3"
+"Q2","SS8050-G","TopLayer","2N3904_MMBT3904_SOT23","24.0665","17.0815","180",""
+"Q1","SS8050-G","TopLayer","2N3904_MMBT3904_SOT23","31.3055","17.0815","0",""
+"P2","Header 19","TopLayer","HDR1X19","61.2775","2.6035","180","Header, 19-Pin"
+"P1","Header 19","TopLayer","HDR1X19","60.2615","36.5125","180","Header, 19-Pin"
+"K1","SRD-05VDC-SL-C","TopLayer","RELAY_SRD-05VDC-SL-C","128.7305","13.7795","0","5V Trigger Relay Module For Arduino And Raspberry Pi 5V Trigger Relay Module For Arduino And Raspberry Pi"
+"J1","ZX62D-B-5P8","TopLayer","ZX62D-B-5P8","3.0625","19.7555","270","CONN RCPT MICRO USB R/A SMD"
+"HD3","Header 2","TopLayer","HED2","133.6675","33.7185","180","Header 2 (Green)"
+"HD2","Header 2","TopLayer","HED2","121.8565","33.5915","180","Header 2 (Green)"
+"HD1","Header 2","TopLayer","HED2","91.8845","34.9885","180","Header 2 (Green)"
+"D8","LED Indication - Discrete","TopLayer","0805_(2012_Metric)_Orange","104.0851","14.7955","0","Oreki"
+"D7","Diode","TopLayer","DO-204AL,_DO-41,_Axial","116.1655","9.4615","0","Oreki"
+"D6","LESD5D5.0CT1G","TopLayer","TVS_LESD5D5.0CT1G","8.8265","11.1125","180","Transient Voltage Suppressors for ESD Protection"
+"D5","LESD5D5.0CT1G","TopLayer","TVS_LESD5D5.0CT1G","8.8265","15.0495","180","Transient Voltage Suppressors for ESD Protection"
+"D4","LESD5D5.0CT1G","TopLayer","TVS_LESD5D5.0CT1G","8.8265","18.9865","180","Transient Voltage Suppressors for ESD Protection"
+"D3","Diode  Schottky 1N5819","TopLayer","DO-214AC","10.0965","23.6855","0","Diode 1A"
+"D2","Component_1","TopLayer","ESP32-WROOM-32D","62.2464","18.9028","270",""
+"D1","LED Indication - Discrete","TopLayer","0805_(2012_Metric)_Orange","25.0825","34.8701","90","Oreki"
+"C32","CAP","TopLayer","CAP0402","92.7735","21.7805","180","CAP SM 0402 X7R 100NF"
+"C31","CAP","TopLayer","CAP0402","92.7735","23.4315","180","CAP SM 0402 X7R 100NF"
+"C22","CAP","TopLayer","CAP0402","86.1255","17.9705","0","CAP SM 0402 X7R 100NF"
+"C21","CAP","TopLayer","CAP0603","86.6005","16.0655","0","CAP SM 0603 X5R 10uF"
+"C20","CAP","TopLayer","CAP0402","20.1295","7.0485","90","CAP SM 0402 X5R 4.7UF"
+"C19","CAP","TopLayer","CAP0402","19.1135","7.0485","90","CAP SM 0402 X7R 100NF"
+"C15","CAP","TopLayer","CAP0402","15.5575","1.5875","180","CAP SM 0402 X7R 100NF"
+"C14","CAP","TopLayer","CAP0402","15.6015","32.7025","180","CAP SM 0402 X7R 100NF"
+"C9","CAP","TopLayer","CAP0402","86.1255","22.5425","0","CAP SM 0402 X7R 100NF"
+"C3","CAP","TopLayer","CAP0603","30.2895","34.6075","270","CAP SM 0603 X5R 10uF"
+"C1","CAP","TopLayer","CAP0603","27.2415","34.5175","90","CAP SM 0603 X5R 10uF"
+"BTN2","Button","TopLayer","SW_1571563-7","6.9215","34.9885","180","Oreki"
+"BTN1","Button","TopLayer","SW_1571563-7","7.0705","4.0365","0","Oreki"

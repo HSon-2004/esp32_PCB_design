@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=sheet1 Member=J?
+Change Component Description : Designator=VR1 Old Description=Trimmer, Cermet, Rest 10 Kilohms, PCB, 1 Turns, Pwr-Rtg 0.5 W, Tol 10% New Description=Trimmer, Cermet, Rest 10 Kilohms, PCB, 1 Turns, Pwr-Rtg 0.5 W, Tol 10% | Bourns 3362P-1-103LF
+Added Component: Designator=HD2(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=HD3(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TRANS_SS8050-G)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SS8050G/Comchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "641-1790-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Comchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SS8050G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SS8050G/Comchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetHD2_1 Pin=HD2-1
+Added Pin To Net: NetName=NetHD2_1 Pin=K1-COM
+Added Net: Name=NetHD2_1
+Added Pin To Net: NetName=NetHD2_2 Pin=HD2-2
+Added Pin To Net: NetName=NetHD2_2 Pin=K1-NC
+Added Net: Name=NetHD2_2
+Added Pin To Net: NetName=NetHD3_1 Pin=HD3-1
+Added Pin To Net: NetName=NetHD3_1 Pin=K1-NO
+Added Net: Name=NetHD3_1
+Added Member To Class: ClassName=sheet1 Member=Component HD2 Header 2
+Added Member To Class: ClassName=sheet1 Member=Component HD3 Header 2
+Added Member To Class: ClassName=sheet1 Member=Component Q? SS8050-G
